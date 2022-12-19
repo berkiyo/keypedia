@@ -1,2 +1,0 @@
-# Keypedia
-Backup files will be stored here.
